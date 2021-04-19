@@ -536,6 +536,48 @@
             "modifiers": {
               "mandatory": [
                 "fn",
+                "left_alt"
+              ]
+            },
+            "key_code": "h"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "delete_or_backspace",
+              "modifiers": [
+                "left_alt"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "modifiers": {
+              "mandatory": [
+                "fn",
+                "left_command"
+              ]
+            },
+            "key_code": "h"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "delete_or_backspace",
+              "modifiers": [
+                "left_command"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "modifiers": {
+              "mandatory": [
+                "fn",
                 "left_control"
               ]
             },
@@ -547,6 +589,52 @@
               "key_code": "delete_or_backspace",
               "modifiers": [
                 "fn"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "modifiers": {
+              "mandatory": [
+                "fn",
+                "left_control",
+                "left_alt"
+              ]
+            },
+            "key_code": "h"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "delete_or_backspace",
+              "modifiers": [
+                "fn",
+                "left_alt"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "modifiers": {
+              "mandatory": [
+                "fn",
+                "left_control",
+                "left_command"
+              ]
+            },
+            "key_code": "h"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "delete_or_backspace",
+              "modifiers": [
+                "fn",
+                "left_command"
               ]
             }
           ]
@@ -574,6 +662,48 @@
             "modifiers": {
               "mandatory": [
                 "fn",
+                "left_alt"
+              ]
+            },
+            "key_code": "slash"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "delete_or_backspace",
+              "modifiers": [
+                "left_alt"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "modifiers": {
+              "mandatory": [
+                "fn",
+                "left_command"
+              ]
+            },
+            "key_code": "slash"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "delete_or_backspace",
+              "modifiers": [
+                "left_command"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "modifiers": {
+              "mandatory": [
+                "fn",
                 "left_control"
               ]
             },
@@ -585,6 +715,52 @@
               "key_code": "delete_or_backspace",
               "modifiers": [
                 "fn"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "modifiers": {
+              "mandatory": [
+                "fn",
+                "left_control",
+                "left_alt"
+              ]
+            },
+            "key_code": "slash"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "delete_or_backspace",
+              "modifiers": [
+                "fn",
+                "left_alt"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "modifiers": {
+              "mandatory": [
+                "fn",
+                "left_control",
+                "left_command"
+              ]
+            },
+            "key_code": "slash"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "delete_or_backspace",
+              "modifiers": [
+                "fn",
+                "left_command"
               ]
             }
           ]
